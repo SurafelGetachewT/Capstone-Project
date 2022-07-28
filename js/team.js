@@ -29,7 +29,7 @@ const speakers = [
   {
     id: 4,
     image:
-    './utils/images/tsega.jpg',
+    './utils/images/kiru.jpg',
     name: 'Kirubel Getachew',
     organization: 'Graphics Designer at MarGioM',
     background:
