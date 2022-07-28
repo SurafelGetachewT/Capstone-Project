@@ -1,6 +1,5 @@
 # Microverse HTML, CSS, JS Module 1 Capstone Project
 
-
 It is built as a part of Microverse Web Developer Course. The mobile-first approach was used in this project.
 
 ## Built With
@@ -21,7 +20,7 @@ It is built as a part of Microverse Web Developer Course. The mobile-first appro
 
 ## Presentation of Project
 
-[Loom Video Link]()
+[Loom Video Link](https://www.loom.com/share/83026fb5e20e469286b26829c4b3e1ad)
 
 ## Project Description
 
