@@ -17,7 +17,7 @@ It is built as a part of Microverse Web Developer Course. The mobile-first appro
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://surafelgetachewt.github.io/first-capstone.github.io/)
 
 ## Presentation of Project
 

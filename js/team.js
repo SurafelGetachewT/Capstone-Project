@@ -2,7 +2,7 @@ const speakers = [
   {
     id: 1,
     image:
-      './utils/images/melak.png',
+      './utils/images/melak.jpg',
     name: 'Melaknesh Dessalegn',
     organization: 'CEO of MarGioM',
     background:
@@ -11,7 +11,7 @@ const speakers = [
   {
     id: 2,
     image:
-     './utils/images/sura.png',
+     './utils/images/sura.jpg',
     name: 'Surafel Getachew',
     organization: 'Full Stack Developer at MarGioM',
     background:
@@ -20,7 +20,7 @@ const speakers = [
   {
     id: 3,
     image:
-    './utils/images/eset.png',
+    './utils/images/eset.jpg',
     name: 'EsseteMariam Tekleab',
     organization: 'Senior Developer at MarGioM',
     background:
@@ -29,7 +29,7 @@ const speakers = [
   {
     id: 4,
     image:
-    './utils/images/kiru.png',
+    './utils/images/kiru.jpg',
     name: 'Kirubel Getachew',
     organization: 'Graphics Designer at MarGioM',
     background:
